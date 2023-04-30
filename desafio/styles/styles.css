@@ -1,0 +1,43 @@
+body {
+    margin-top: 25px;
+    background-image: url(../images/516926.jpg);
+    text-align: center;
+    font-family: Verdana;
+}
+header {
+    font-size: 115%;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: aliceblue;
+    margin-bottom: 150px;
+}
+div p {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: aliceblue;;
+    margin-left: 30%;
+    margin-right: 30%;
+    border: 3px double black;
+    border-radius: 20px;
+    padding: 15px;
+    margin-bottom: 25px;
+}
+button {
+    font-family: Franklin Gothic;
+    font-size: 110%;
+    background-color: black;
+    width: 10%;
+    border: 3px double black;
+    border-radius: 10px;
+}
+a:visited, a:link {
+    color: aliceblue;
+    text-decoration: none;
+}
+input {
+    font-family: Franklin Gothic;
+    font-size: 110%;
+    background-color: black;
+    color: aliceblue;
+    width: 10%;
+    border: 3px double aliceblue;
+    border-radius: 10px;
+}
